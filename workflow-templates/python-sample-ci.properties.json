@@ -3,7 +3,6 @@
     "description": "Maestro Python CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
-        "Maestro",
         "Python"
     ],
     "filePatterns": [
