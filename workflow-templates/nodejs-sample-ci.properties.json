@@ -3,6 +3,7 @@
     "description": "Maestro NodeJS CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
+        "Maestro",
         "NodeJS"
     ],
     "filePatterns": [
