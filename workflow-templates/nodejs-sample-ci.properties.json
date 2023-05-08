@@ -1,0 +1,13 @@
+{
+    "name": "Maestro: NodeJS Sample CI Workflow",
+    "description": "Maestro NodeJS CI starter workflow.",
+    "iconName": "example-icon",
+    "categories": [
+        "NodeJS"
+    ],
+    "filePatterns": [
+        "package.json$",
+        "^Dockerfile",
+        ".*\\.md$"
+    ]
+}
