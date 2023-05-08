@@ -1,5 +1,5 @@
 {
-    "name": "Maestro: Python Sample CI Workflow",
+    "name": "Python CI",
     "description": "Maestro Python CI starter workflow.",
     "iconName": "example-icon",
     "categories": [

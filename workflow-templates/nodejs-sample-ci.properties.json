@@ -1,5 +1,5 @@
 {
-    "name": "Maestro: NodeJS Sample CI Workflow",
+    "name": "NodeJS CI",
     "description": "Maestro NodeJS CI starter workflow.",
     "iconName": "example-icon",
     "categories": [
