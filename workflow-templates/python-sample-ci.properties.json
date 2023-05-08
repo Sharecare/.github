@@ -1,9 +1,10 @@
 {
-    "name": "Python CI",
+    "name": "Python CI for Maestro Deployments",
     "description": "Maestro Python CI starter workflow.",
-    "iconName": "example-icon",
+    "iconName": "python",
     "categories": [
-        "Python"
+        "Python",
+        "Deployment"
     ],
     "filePatterns": [
         "requirements.txt$",
