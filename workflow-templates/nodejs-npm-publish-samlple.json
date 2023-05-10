@@ -1,6 +1,6 @@
 {
-  "name": "Publish NPM Mpdule",
-  "description": "Publish NPM Mpdule starter workflow.",
+  "name": "Publish NPM Module",
+  "description": "Publish NPM Module starter workflow.",
   "iconName": "nodejs",
   "categories": [
     "NodeJS",

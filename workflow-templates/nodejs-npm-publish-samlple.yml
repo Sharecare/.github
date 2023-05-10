@@ -1,4 +1,4 @@
-name: Publish NPM Moodule
+name: Publish NPM Module
 
 on:
   push:
