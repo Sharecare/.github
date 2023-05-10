@@ -1,0 +1,13 @@
+{
+  "name": "Publish NPM Mpdule",
+  "description": "Publish NPM Mpdule starter workflow.",
+  "iconName": "nodejs",
+  "categories": [
+    "NodeJS",
+    "NPM"
+  ],
+  "filePatterns": [
+    "package.json$",
+    ".*\\.md$"
+  ]
+}
